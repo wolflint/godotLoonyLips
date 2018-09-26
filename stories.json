@@ -1,0 +1,28 @@
+[
+		{
+		"prompt" : ["name",
+      "thing or a food",
+      "place",
+      "feeling"],
+
+		"story" : "Once upon a time a brave adventurer called %s ate a %s in a %s and felt very %s.",
+		},
+
+		{
+		"prompt" : ["adjective",
+      "noun",
+      "noun",
+      "feeling"],
+
+		"story" : "In a galaxy far, far away... A %s %s attacked a %s and felt %s...",
+		},
+
+		{
+		"prompt" : ["name",
+      "thing",
+      "feeling",
+      "action"],
+      
+		"story" : "Once upon a time an excellent magician called %s invented a %s which initially surprised all of the peasants. Then peasants were %s and decided to %s the magician.",
+		}
+]
